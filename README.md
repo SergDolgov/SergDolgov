@@ -1,8 +1,8 @@
-### Hii 😊 I'm Sergey Dolgov 
+### 😊 I'm Sergey Dolgov 
 I'm from Ukraine
+I’m a software engineer
 
-- I’m a software engineer
-- Analysis, planning, design, development, testing, deployment, maintenance.
+Analysis, planning, design, development, testing, deployment, maintenance.
 
 When my clients or management are satisfied with the results of my work and make a profit, it brings me great pleasure. I've crossed the threshold where a certain programming language is a priority. Now I choose a technology stack based on the requirements of the project, taking into account security, development speed, workload, support and, most importantly, cost.
 
